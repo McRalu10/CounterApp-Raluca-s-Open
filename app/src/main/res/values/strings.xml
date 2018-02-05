@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tennis App</string>
+    <string name="competition_name">Raluca\'s Open</string>
+    <string name="player1">Simona Halep</string>
+    <string name="player2">Other</string>
+    <string name="vs">vs</string>
+    <string name="score">score</string>
+    <string name="initial_score">0</string>
+    <string name="line">-</string>
+    <string name="add_button">Add Points</string>
+    <string name="reset_button">reset</string>
+    <string name="ace_button">Aces</string>
+    <string name="fault_button">Double Fault</string>
+    <string name="start_button">Start</string>
+    <string name="advantage">AD</string>
+</resources>
